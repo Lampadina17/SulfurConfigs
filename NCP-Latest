@@ -1,1 +1,28 @@
-
+Killaura:Reach:4.2
+Killaura:Delay:80.0
+Killaura:Fail Hit:0.0
+Killaura:Aim Reach:4.2
+Killaura:Mode:NCP
+Killaura:AutoBlock:true
+Killaura:Rand Rots:false
+Killaura:Rand Delay:false
+Killaura:Raycast:false
+Killaura:Walls:true
+Killaura:Slowdown:false
+Killaura:PreAim:false
+Killaura:Instant:true
+AutoClicker:Reach:4.2
+AutoClicker:Delay Min:80.0
+AutoClicker:Delay Max:80.0
+Sprint:Multi-Dir:true
+Speed:Mode:NCP Latest
+NoSlow:Speed:1.0
+AntiKB:Y Percent:0.0
+AntiKB:XZ Percent:0.0
+AntiKB:Mode:NCP
+LongJump:Mode:old NCP
+Step:Mode:Motion
+Scaffold:Delay:50.0
+Scaffold:NoSprint:true
+ChestStealer:Delay:90.0
+InvCleaner:Delay:90.0

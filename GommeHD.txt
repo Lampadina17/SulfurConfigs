@@ -1,0 +1,49 @@
+disable:AntiBot
+disable:Flight
+disable:LongJump
+disable:Phase
+disable:TPAura
+disable:Nuker
+disable:BedBreak
+disable:NoFall
+disable:Step
+disable:Scaffold
+Killaura:Reach:3.7
+Killaura:Delay:80.0
+Killaura:Fail Hit:8.0
+Killaura:Particles:1.0
+Killaura:Aim Reach:4.0
+Killaura:Rot Speed:28.0
+Killaura:Mode:Gomme
+Killaura:AutoBlock:false
+Killaura:Players:true
+Killaura:Animals:true
+Killaura:Mobs:true
+Killaura:Invisibles:true
+Killaura:Villagers:true
+Killaura:Rand Rots:true
+Killaura:Rand Delay:true
+Killaura:Raycast:true
+Killaura:Walls:false
+Killaura:Slowdown:true
+Killaura:PreAim:true
+Killaura:Instant:false
+AntiBot:AAC Add Pro
+AutoClicker:Reach:3.7
+AutoClicker:Delay Min:80.0
+AutoClicker:Delay Max:95.0
+Sprint:Multi-Dir:false
+Speed:Mode:AAC Latest
+NoSlow:Speed:0.5
+AntiKB:Mode:AAC
+Step:Mode:Motion
+Scaffold:Delay:200.0
+Scaffold:NoSprint:true
+Scaffold:Keep Rots:true
+Scaffold:Slowdown:true
+Scaffold:Smooth:true
+ChestStealer:Delay:130.0
+InvCleaner:Delay:130.0
+enable:Sprint
+enable:AntiKB
+enable:AntiBot

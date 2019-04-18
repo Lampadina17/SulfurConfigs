@@ -8,6 +8,7 @@ disable:BedBreak
 disable:NoFall
 disable:NoSlow
 disable:Step
+disable:Criticals
 Killaura:Reach:3.6
 Killaura:Delay:80.0
 Killaura:Fail Hit:8.0

@@ -22,6 +22,7 @@ Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:false
+Killaura:Team:true
 Killaura:Rand Rots:false
 Killaura:Rand Delay:false
 Killaura:Raycast:false

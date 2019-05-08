@@ -7,11 +7,11 @@ disable:BedBreak
 disable:NoFall
 disable:Step
 disable:Scaffold
-Killaura:Reach:4.0
+Killaura:Reach:5.0
 Killaura:Delay:80.0
 Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
-Killaura:Aim Reach:4.4
+Killaura:Aim Reach:5.0
 Killaura:Rot Speed:40.0
 Killaura:Mode:NCP
 Killaura:AutoBlock:true
@@ -19,7 +19,7 @@ Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:true
 Killaura:Invisibles:true
-Killaura:Villagers:true
+Killaura:Villagers:false
 Killaura:Friends:false
 Killaura:Team:false
 Killaura:Rand Rots:false
@@ -30,7 +30,7 @@ Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Instant:true
 AntiBot:Mode:Entity ID
-AutoClicker:Reach:4.0
+AutoClicker:Reach:5.0
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0
 Sprint:Multi-Dir:true

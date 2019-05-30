@@ -15,7 +15,8 @@ Killaura:Fail Hit:8.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.7
 Killaura:Rot Speed:45.0
-Killaura:Mode:AAC
+Killaura:Rotation Mode:AAC
+Killaura:Switch Mode:AAC
 Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:true

@@ -19,7 +19,7 @@ Killaura:Aim Reach:4.0
 Killaura:Rot Speed:55.0
 Killaura:Rots Mode:Gomme
 Killaura:Switch Mode:NCP
-Killaura:AutoBlock:true
+Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:true

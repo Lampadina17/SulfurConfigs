@@ -15,7 +15,7 @@ Killaura:Fail Hit:4.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.5
 Killaura:Rot Speed:30.0
-Killaura:Rotation Mode:NCP
+Killaura:Rots Mode:NCP
 Killaura:Switch Mode:NCP
 Killaura:AutoBlock:false
 Killaura:Players:true

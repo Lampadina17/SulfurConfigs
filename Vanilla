@@ -3,7 +3,6 @@ Killaura:Reach:6.0
 Killaura:Delay:0.0
 Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
-Killaura:Rots Mode:NCP
 Killaura:Switch Mode:Vanilla
 Killaura:AutoBlock:true
 Killaura:Players:true
@@ -17,7 +16,6 @@ Killaura:Raycast:false
 Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
-Killaura:Instant:false
 TPAura:Reach:45.0
 TPAura:Delay:70.0
 AutoClicker:Reach:6.0

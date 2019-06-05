@@ -15,7 +15,6 @@ Killaura:Fail Hit:8.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8
 Killaura:Rot Speed:35.0
-Killaura:Rots Mode:AAC
 Killaura:Switch Mode:AAC
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -29,7 +28,7 @@ Killaura:Raycast:true
 Killaura:Walls:false
 Killaura:Slowdown:true
 Killaura:PreAim:false
-Killaura:Instant:false
+Killaura:Smooth Rot:true
 AutoClicker:Reach:3.6
 AutoClicker:Delay Min:85.0
 AutoClicker:Delay Max:100.0

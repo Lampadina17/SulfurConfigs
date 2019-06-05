@@ -15,8 +15,7 @@ Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:40.0
-Killaura:Rots Mode:NCP
-Killaura:Switch Mode:NCP
+Killaura:Mode:Switch
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -29,7 +28,7 @@ Killaura:Raycast:false
 Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
-Killaura:Instant:true
+Killaura:Smooth Rot:false
 AutoClicker:Reach:4.2
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0

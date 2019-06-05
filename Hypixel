@@ -17,8 +17,7 @@ Killaura:Fail Hit:10.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:55.0
-Killaura:Rots Mode:Gomme
-Killaura:Switch Mode:NCP
+Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
@@ -31,7 +30,7 @@ Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:Slowdown:true
 Killaura:PreAim:false
-Killaura:Instant:false
+Killaura:Smooth Rot:false
 AntiBot:Mode:Hypixel
 AutoClicker:Reach:4.0
 AutoClicker:Delay Min:95.0

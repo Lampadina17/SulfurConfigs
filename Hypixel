@@ -9,7 +9,6 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 disable:Criticals
-disable:AntiKB
 disable:NoSlow
 Killaura:Reach:4.0
 Killaura:Delay:80.0
@@ -51,3 +50,4 @@ ChestStealer:Delay:155.0
 InvCleaner:Delay:155.0
 enable:Sprint
 enable:AntiBot
+enable:AntiKB

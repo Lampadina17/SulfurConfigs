@@ -13,7 +13,7 @@ disable:AntiKB
 disable:NoSlow
 Killaura:Reach:4.0
 Killaura:Delay:80.0
-Killaura:Fail Hit:10.0
+Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:55.0
@@ -28,7 +28,7 @@ Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
-Killaura:Slowdown:true
+Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 AntiBot:Mode:Hypixel

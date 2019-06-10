@@ -3,6 +3,7 @@ Killaura:Reach:6.0
 Killaura:Delay:0.0
 Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
+Killaura:Fov:360.0
 Killaura:Mode:Multi
 Killaura:AutoBlock:true
 Killaura:Players:true

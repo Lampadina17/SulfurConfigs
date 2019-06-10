@@ -9,7 +9,7 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 disable:Criticals
-Killaura:Reach:4.5
+Killaura:Reach:5
 Killaura:Delay:80.0
 Killaura:Fail Hit:4.0
 Killaura:Particles:1.0

@@ -15,6 +15,7 @@ Killaura:Fail Hit:4.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.5
 Killaura:Rot Speed:30.0
+Killaura:Fov:360.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true

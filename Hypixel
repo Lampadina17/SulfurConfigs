@@ -15,7 +15,7 @@ Killaura:Delay:80.0
 Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
-Killaura:Rot Speed:55.0
+Killaura:Rot Speed:135.0
 Killaura:Fov:90.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false

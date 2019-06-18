@@ -30,7 +30,7 @@ Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
-Killaura:Smooth Rot:false
+Killaura:Smooth Rot:true
 AntiBot:Mode:Hypixel
 AutoClicker:Reach:4.0
 AutoClicker:Delay Min:95.0

@@ -15,7 +15,7 @@ Killaura:Particles:1.0
 Killaura:Aim Reach:3.9
 Killaura:Rot Speed:30.0
 Killaura:Fov:360.0
-Killaura:Mode:Switch
+Killaura:Mode:Single
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true

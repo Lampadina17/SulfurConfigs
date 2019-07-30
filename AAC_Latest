@@ -11,11 +11,9 @@ disable:Step
 disable:Criticals
 Killaura:Reach:3.6
 Killaura:Delay:80.0
-Killaura:Fail Hit:8.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8
 Killaura:Rot Speed:35.0
-Killaura:Fov:360.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -23,6 +21,7 @@ Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
+Killaura:Dead:false
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
@@ -30,20 +29,21 @@ Killaura:Walls:false
 Killaura:Slowdown:true
 Killaura:PreAim:false
 Killaura:Smooth Rot:true
+Killaura:Fail Hit:false
 AutoClicker:Reach:3.6
 AutoClicker:Delay Min:85.0
 AutoClicker:Delay Max:100.0
 Sprint:Multi-Dir:false
-Speed:Mode:AAC Latest
+Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
 AntiKB:Mode:AAC
 Step:Mode:Motion
-Scaffold:Delay:10.0
+Scaffold:Delay:100.0
 Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
-Scaffold:Slowdown:false
-Scaffold:Smooth:false
-Scaffold:Silent:true
+Scaffold:Slowdown:true
+Scaffold:Smooth:true
+Scaffold:Silent:false
 ChestStealer:Delay:130.0
 InvCleaner:Delay:130.0
 enable:AntiKB

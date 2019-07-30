@@ -9,18 +9,17 @@ disable:Step
 disable:Scaffold
 Killaura:Reach:5.0
 Killaura:Delay:80.0
-Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:5.0
 Killaura:Rot Speed:40.0
-Killaura:Fov:360.0
-Killaura:Mode:Single
+Killaura:Mode:Switch
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:false
+Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
 Killaura:Rand Rots:false
@@ -30,6 +29,7 @@ Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
+Killaura:Fail Hit:false
 AntiBot:Mode:Entity ID
 AutoClicker:Reach:5.0
 AutoClicker:Delay Min:80.0
@@ -41,11 +41,11 @@ AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Flight:Mode:Cubecraft
-Step:Mode:Motion
+Step:Mode:Vanilla
 Scaffold:Delay:50.0
-Scaffold:NoSprint:false
+Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
-Scaffold:Slowdown:false
+Scaffold:Slowdown:true
 Scaffold:Smooth:true
 ChestStealer:Delay:90.0
 InvCleaner:Delay:90.0

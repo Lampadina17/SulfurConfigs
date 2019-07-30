@@ -12,18 +12,17 @@ disable:Criticals
 disable:NoSlow
 Killaura:Reach:3.8
 Killaura:Delay:80.0
-Killaura:Fail Hit:2.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.5
 Killaura:Rot Speed:60.0
-Killaura:Fov:360.0
-Killaura:Mode:Single
+Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:false
+Killaura:Dead:true
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
@@ -31,11 +30,13 @@ Killaura:Walls:false
 Killaura:Slowdown:false
 Killaura:PreAim:true
 Killaura:Smooth Rot:false
+Killaura:Fail Hit:true
 AutoClicker:Reach:3.8
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:85.0
+ESP:Style:Outline
 Sprint:Multi-Dir:false
-Speed:Mode:AAC Latest
+Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
 AntiKB:Mode:AAC
 LongJump:Mode:old NCP

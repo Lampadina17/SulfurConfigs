@@ -11,11 +11,9 @@ disable:Step
 disable:Criticals
 Killaura:Reach:3.6
 Killaura:Delay:80.0
-Killaura:Fail Hit:8.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.7
 Killaura:Rot Speed:45.0
-Killaura:Fov:360.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -30,11 +28,12 @@ Killaura:Walls:false
 Killaura:Slowdown:true
 Killaura:PreAim:true
 Killaura:Smooth Rot:true
+Killaura:Fail Hit:true
 AutoClicker:Reach:3.6
 AutoClicker:Delay Min:85.0
 AutoClicker:Delay Max:100.0
 Sprint:Multi-Dir:false
-Speed:Mode:AAC Latest
+Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
 AntiKB:Mode:AAC
 Step:Mode:Motion

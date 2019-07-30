@@ -11,11 +11,9 @@ disable:Scaffold
 disable:Criticals
 Killaura:Reach:4.0
 Killaura:Delay:80.0
-Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:40.0
-Killaura:Fov:360.0
 Killaura:Mode:Single
 Killaura:AutoBlock:true
 Killaura:Players:true
@@ -23,6 +21,7 @@ Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
+Killaura:Dead:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:false
 Killaura:Raycast:false
@@ -30,6 +29,7 @@ Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
+Killaura:Fail Hit:false
 AutoClicker:Reach:4.2
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0
@@ -43,7 +43,7 @@ LongJump:Mode:NCP
 LongJump:Power:1.1
 LongJump:Auto Disable:true
 Step:Mode:Motion
-Scaffold:Delay:3.0
+Scaffold:Delay:0.0
 Scaffold:NoSprint:false
 Scaffold:Keep Rots:false
 Scaffold:Slowdown:false

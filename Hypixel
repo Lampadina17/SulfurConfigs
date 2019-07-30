@@ -12,11 +12,9 @@ disable:Criticals
 disable:NoSlow
 Killaura:Reach:4.0
 Killaura:Delay:80.0
-Killaura:Fail Hit:0.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:135.0
-Killaura:Fov:90.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -24,6 +22,7 @@ Killaura:Animals:false
 Killaura:Mobs:true
 Killaura:Invisibles:false
 Killaura:Villagers:false
+Killaura:Dead:false
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
@@ -31,6 +30,7 @@ Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:true
+Killaura:Fail Hit:false
 AntiBot:Mode:Hypixel
 AutoClicker:Reach:4.0
 AutoClicker:Delay Min:95.0

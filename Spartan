@@ -10,11 +10,9 @@ disable:Step
 disable:Scaffold
 Killaura:Reach:3.7
 Killaura:Delay:80.0
-Killaura:Fail Hit:10.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.9
 Killaura:Rot Speed:30.0
-Killaura:Fov:360.0
 Killaura:Mode:Single
 Killaura:AutoBlock:true
 Killaura:Players:true
@@ -22,6 +20,7 @@ Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
+Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
 Killaura:Rand Rots:true
@@ -31,6 +30,7 @@ Killaura:Walls:false
 Killaura:Slowdown:true
 Killaura:PreAim:true
 Killaura:Smooth Rot:true
+Killaura:Fail Hit:true
 AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0

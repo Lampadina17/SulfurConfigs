@@ -11,11 +11,9 @@ disable:Scaffold
 disable:Criticals
 Killaura:Reach:3.7
 Killaura:Delay:80.0
-Killaura:Fail Hit:8.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:28.0
-Killaura:Fov:360.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -23,6 +21,7 @@ Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
+Killaura:Dead:true
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
@@ -30,12 +29,13 @@ Killaura:Walls:false
 Killaura:Slowdown:true
 Killaura:PreAim:true
 Killaura:Smooth Rot:true
+Killaura:Fail Hit:true
 AntiBot:AAC Add Pro
 AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0
 Sprint:Multi-Dir:false
-Speed:Mode:AAC Latest
+Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
 AntiKB:Mode:AAC
 Step:Mode:Motion

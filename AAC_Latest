@@ -38,7 +38,7 @@ Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
 AntiKB:Mode:AAC
 Step:Mode:Motion
-Scaffold:Delay:100.0
+Scaffold:Delay:50.0
 Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
 Scaffold:Slowdown:true

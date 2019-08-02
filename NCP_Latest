@@ -43,7 +43,7 @@ LongJump:Mode:NCP
 LongJump:Power:1.1
 LongJump:Auto Disable:true
 Step:Mode:Motion
-Scaffold:Delay:0.0
+Scaffold:Delay:5.0
 Scaffold:NoSprint:false
 Scaffold:Keep Rots:false
 Scaffold:Slowdown:false

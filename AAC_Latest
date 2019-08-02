@@ -43,7 +43,7 @@ Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
 Scaffold:Slowdown:true
 Scaffold:Smooth:true
-Scaffold:Silent:false
+Scaffold:Silent:true
 ChestStealer:Delay:130.0
 InvCleaner:Delay:130.0
 enable:AntiKB

@@ -11,10 +11,10 @@ disable:Scaffold
 disable:Criticals
 disable:NoSlow
 Killaura:Reach:4.0
-Killaura:Delay:80.0
-Killaura:Particles:1.0
+Killaura:Delay:70.0
+Killaura:Particles:2.0
 Killaura:Aim Reach:4.0
-Killaura:Rot Speed:135.0
+Killaura:Rot Speed:90.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -23,13 +23,13 @@ Killaura:Mobs:true
 Killaura:Invisibles:false
 Killaura:Villagers:false
 Killaura:Dead:false
-Killaura:Rand Rots:true
+Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
-Killaura:Smooth Rot:true
+Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
 AntiBot:Mode:Hypixel
 AutoClicker:Reach:4.0
@@ -42,11 +42,11 @@ AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Step:Mode:Motion
-Scaffold:Delay:50.0
-Scaffold:NoSprint:false
+Scaffold:Delay:20.0
+Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
 Scaffold:Slowdown:false
-Scaffold:Smooth:false
+Scaffold:Smooth:true
 ChestStealer:Delay:155.0
 InvCleaner:Delay:155.0
 enable:Sprint

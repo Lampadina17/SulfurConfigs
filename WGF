@@ -56,7 +56,6 @@ Scaffold:Delay:3.0
 Scaffold:NoSprint:false
 Scaffold:Keep Rots:false
 Scaffold:Slowdown:false
-Scaffold:Smooth:false
 ChestStealer:Delay:90.0
 InvCleaner:Delay:90.0
 enable:Sprint

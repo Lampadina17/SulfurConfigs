@@ -42,8 +42,8 @@ AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Step:Mode:Motion
-Scaffold:Delay:20.0
-Scaffold:NoSprint:true
+Scaffold:Delay:260.0
+Scaffold:NoSprint:false
 Scaffold:Keep Rots:true
 Scaffold:Slowdown:false
 ChestStealer:Delay:155.0

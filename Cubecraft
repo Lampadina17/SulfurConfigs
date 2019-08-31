@@ -29,7 +29,7 @@ Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
-Killaura:Fail Hit:false
+Killaura:Fail Hit:true
 AntiBot:Mode:Entity ID
 AutoClicker:Reach:5.0
 AutoClicker:Delay Min:80.0

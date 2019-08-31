@@ -42,10 +42,10 @@ AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Flight:Mode:Cubecraft
 Step:Mode:Vanilla
-Scaffold:Delay:50.0
+Scaffold:Delay:200.0
 Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
-Scaffold:Slowdown:true
+Scaffold:Slowdown:false
 ChestStealer:Delay:90.0
 InvCleaner:Delay:90.0
 enable:AntiBot

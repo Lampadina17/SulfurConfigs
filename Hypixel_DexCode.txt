@@ -1,0 +1,74 @@
+enable:NoSlow
+enable:AntiKB
+enable:InvMove
+enable:AntiBot
+enable:Jesus
+enable:Sprint
+enable:ESP
+Killaura:Reach:4.4
+Killaura:Delay:65.0
+Killaura:Particles:2.0
+Killaura:Aim Reach:4.4
+Killaura:Rot Speed:90.0
+Killaura:Mode:Switch
+Killaura:AutoBlock:false
+Killaura:Players:true
+Killaura:Animals:false
+Killaura:Mobs:false
+Killaura:Invisibles:false
+Killaura:Villagers:false
+Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
+Killaura:Rand Rots:true
+Killaura:Rand Delay:true
+Killaura:Raycast:true
+Killaura:Walls:true
+Killaura:Slowdown:false
+Killaura:PreAim:false
+Killaura:Smooth Rot:false
+Killaura:Fail Hit:false
+AntiBot:Mode:Hypixel
+AutoClicker:Reach:4.0
+AutoClicker:Delay Min:95.0
+AutoClicker:Delay Max:100.0
+ESP:Style:Box
+ESP:Players:true
+ESP:Animals:false
+ESP:Mobs:false
+ESP:Invisibles:false
+ESP:Villagers:false
+ChestESP:Chest:true
+ChestESP:EnderChest:false
+ChestESP:Furnace:false
+ChestESP:Dispenser:false
+ChestESP:HiveMC:false
+ChestESP:Range:40.0
+Sprint:Multi-Dir:false
+Speed:Mode:NCP Latest
+Speed:Air up:1.0
+Speed:Air down:1.0
+Speed:Ground:1.0
+Speed:Other 1.9.10:false
+NoSlow:Speed:1.0
+NoSlow:AAC:true
+AntiKB:Mode:NCP
+AntiKB:Y Percent:0.0
+AntiKB:XZ Percent:0.0
+LongJump:Mode:NCP
+LongJump:Power:1.0
+LongJump:Auto Disable:true
+Flight:Mode:Vanilla
+Flight:Y-Glide:0.0
+Flight:XZ-Speed:0.5
+Step:Mode:Motion
+Step:Height:0.9
+Scaffold:Delay:1000.0
+Scaffold:NoSprint:false
+Scaffold:Keep Rots:true
+Scaffold:Slowdown:false
+Scaffold:Silent:true
+ChestStealer:Delay:135.0
+InvCleaner:Delay:135.0
+Spam:Delay:1000.0
+Timer:Speed:1.0

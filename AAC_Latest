@@ -44,6 +44,8 @@ Scaffold:Keep Rots:true
 Scaffold:Slowdown:true
 Scaffold:Silent:true
 ChestStealer:Delay:130.0
+AutoArmor:Delay:125.0
+AutoArmor:Inv Open:false
 InvCleaner:Delay:130.0
 enable:AntiKB
 enable:Sprint

@@ -13,7 +13,7 @@ Killaura:Particles:1.0
 Killaura:Aim Reach:5.0
 Killaura:Rot Speed:40.0
 Killaura:Mode:Switch
-Killaura:AutoBlock:true
+Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:true
@@ -22,8 +22,8 @@ Killaura:Villagers:false
 Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
-Killaura:Rand Rots:false
-Killaura:Rand Delay:false
+Killaura:Rand Rots:true
+Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:Slowdown:false
@@ -46,8 +46,9 @@ Scaffold:Delay:200.0
 Scaffold:NoSprint:true
 Scaffold:Keep Rots:true
 Scaffold:Slowdown:false
-ChestStealer:Delay:90.0
-InvCleaner:Delay:90.0
+ChestStealer:Delay:120.0
+AutoArmor:
+InvCleaner:Delay:120.0
 enable:AntiBot
 enable:Sprint
 enable:AntiKB

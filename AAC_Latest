@@ -9,7 +9,7 @@ disable:NoFall
 disable:NoSlow
 disable:Step
 disable:Criticals
-Killaura:Reach:3.6
+Killaura:Reach:3.8
 Killaura:Delay:80.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8

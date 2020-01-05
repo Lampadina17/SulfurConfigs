@@ -41,6 +41,7 @@ LongJump:Mode:NCP
 LongJump:Power:1.0
 LongJump:Auto Disable:true
 NoSlow:Speed:1.0
+NoSlow:AAC:true
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP

@@ -63,10 +63,8 @@ Flight:Y-Glide:0.0
 Flight:XZ-Speed:0.5
 Step:Mode:Motion
 Step:Height:0.9
-Scaffold:Delay:1000.0
-Scaffold:NoSprint:false
-Scaffold:Keep Rots:true
-Scaffold:Slowdown:false
+Scaffold:Delay:110.0
+Scaffold:NoSprint:true
 Scaffold:Silent:true
 ChestStealer:Delay:135.0
 InvCleaner:Delay:135.0

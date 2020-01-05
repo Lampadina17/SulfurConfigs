@@ -11,7 +11,7 @@ disable:Scaffold
 disable:Criticals
 disable:NoSlow
 Killaura:Reach:4.0
-Killaura:Delay:60.0
+Killaura:Delay:70.0
 Killaura:Particles:2.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:90.0

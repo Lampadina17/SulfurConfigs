@@ -45,6 +45,7 @@ ChestESP:Range:70.0
 Sprint:Multi-Dir:true
 Speed:Mode:WGF
 NoSlow:Speed:1.0
+NoSlow:AAC:false
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP

@@ -36,6 +36,7 @@ AutoClicker:Delay Max:100.0
 Sprint:Multi-Dir:false
 Speed:Mode:AAC 3.6.4
 NoSlow:Speed:0.5
+NoSlow:AAC:true
 AntiKB:Mode:AAC
 Step:Mode:Motion
 Scaffold:Delay:50.0

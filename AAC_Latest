@@ -41,8 +41,6 @@ AntiKB:Mode:AAC
 Step:Mode:Motion
 Scaffold:Delay:50.0
 Scaffold:NoSprint:true
-Scaffold:Keep Rots:true
-Scaffold:Slowdown:true
 Scaffold:Silent:true
 ChestStealer:Delay:130.0
 AutoArmor:Delay:125.0

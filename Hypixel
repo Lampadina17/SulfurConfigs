@@ -47,6 +47,7 @@ AntiKB:Mode:NCP
 Step:Mode:Motion
 Scaffold:Delay:115.0
 Scaffold:NoSprint:true
+Scaffold:Silent:true
 ChestStealer:Delay:155.0
 InvCleaner:Delay:155.0
 enable:Sprint

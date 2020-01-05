@@ -37,6 +37,7 @@ AutoClicker:Delay Max:80.0
 Sprint:Multi-Dir:true
 Speed:Mode:Cubecraft
 NoSlow:Speed:1.0
+NoSlow:AAC:false
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP

@@ -54,3 +54,4 @@ InvCleaner:Delay:155.0
 enable:Sprint
 enable:AntiBot
 enable:AntiKB
+enable:NoSlow

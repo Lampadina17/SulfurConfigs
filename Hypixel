@@ -50,6 +50,8 @@ Scaffold:Delay:10.0
 Scaffold:NoSprint:false
 Scaffold:Silent:true
 ChestStealer:Delay:100.0
+AutoArmor:Delay:125.0
+AutoArmor:Inv Open:false
 InvCleaner:Delay:155.0
 enable:Sprint
 enable:AntiBot

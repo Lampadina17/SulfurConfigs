@@ -11,11 +11,10 @@ disable:Scaffold
 disable:Criticals
 disable:NoSlow
 Killaura:Reach:4.0
-Killaura:Delay:70.0
+Killaura:Delay:75.0
 Killaura:Particles:2.0
 Killaura:Aim Reach:4.0
-Killaura:Rot Speed:90.0
-Killaura:Mode:Single
+Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
@@ -25,7 +24,7 @@ Killaura:Villagers:false
 Killaura:Dead:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:true
-Killaura:Raycast:false
+Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:Slowdown:false
 Killaura:PreAim:false
@@ -40,7 +39,7 @@ Speed:Mode:Hypixel
 LongJump:Mode:NCP
 LongJump:Power:1.0
 LongJump:Auto Disable:true
-NoSlow:Speed:1.0
+NoSlow:Speed:0.7
 NoSlow:AAC:true
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
@@ -57,3 +56,4 @@ enable:Sprint
 enable:AntiBot
 enable:AntiKB
 enable:NoSlow
+enable:NoRotate

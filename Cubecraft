@@ -8,7 +8,8 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 Killaura:Reach:5.0
-Killaura:Delay:80.0
+Killaura:Speed Max:12.5
+Killaura:Speed Max:10.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:5.0
 Killaura:Rot Speed:40.0

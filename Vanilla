@@ -1,6 +1,6 @@
 disable:AntiBot
 Killaura:Reach:6.0
-Killaura:Delay:0.0
+Killaura:Speed Max:20
 Killaura:Particles:1.0
 Killaura:Mode:Multi
 Killaura:AutoBlock:true

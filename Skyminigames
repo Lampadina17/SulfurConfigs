@@ -10,7 +10,7 @@ disable:Step
 disable:Scaffold
 disable:Criticals
 Killaura:Reach:4.2
-Killaura:Delay:60.0
+Killaura:Speed Max:16.5
 Killaura:Particles:2.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:true

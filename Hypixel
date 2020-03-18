@@ -12,7 +12,7 @@ disable:Criticals
 disable:NoSlow
 Killaura:Reach:4.0
 Killaura:Speed Max:13.0
-Killaura:Speed Min:9.0
+Killaura:Speed Min:8.0
 Killaura:Particles:2.0
 Killaura:Aim Reach:4.0
 Killaura:Mode:Switch

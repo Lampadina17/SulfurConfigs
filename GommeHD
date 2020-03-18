@@ -11,7 +11,7 @@ disable:Scaffold
 disable:Criticals
 Killaura:Reach:3.7
 Killaura:Speed Max:12.5
-Killaura:Speed Max:8.0
+Killaura:Speed Min:7.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:28.0

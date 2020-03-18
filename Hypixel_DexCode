@@ -7,7 +7,7 @@ enable:Sprint
 enable:ESP
 Killaura:Reach:4.4
 Killaura:Speed Max:15.5
-Killaura:Speed Max:10.0
+Killaura:Speed Min:10.0
 Killaura:Particles:2.0
 Killaura:Aim Reach:4.4
 Killaura:Rot Speed:90.0

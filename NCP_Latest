@@ -10,7 +10,7 @@ disable:Step
 disable:Scaffold
 disable:Criticals
 Killaura:Reach:4.0
-Killaura:Delay:80.0
+Killaura:Speed Max:13.5
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:40.0
 Killaura:Mode:Switch

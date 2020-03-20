@@ -36,16 +36,16 @@ AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0
 Sprint:Multi-Dir:false
-Speed:Mode:AAC Latest
-NoSlow:Speed:1.0
+Speed:Mode:NCP Latest
+NoSlow:Speed:0.75
+NoSlow:AAC:false
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Step:Mode:Motion
-Scaffold:Delay:3.0
+Scaffold:Delay:0.0
 Scaffold:NoSprint:true
-Scaffold:Keep Rots:true
-Scaffold:Slowdown:false
+Scaffold:Silent:false
 ChestStealer:Delay:80.0
 InvCleaner:Delay:80.0
 enable:Sprint

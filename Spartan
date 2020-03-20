@@ -10,10 +10,10 @@ disable:Step
 disable:Scaffold
 Killaura:Reach:3.7
 Killaura:Speed Max:12.5
-Killaura:Speed Min:8.0
+Killaura:Speed Min:11.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.9
-Killaura:Rot Speed:30.0
+Killaura:Rot Speed:25.0
 Killaura:Mode:Single
 Killaura:AutoBlock:true
 Killaura:Players:true
@@ -26,12 +26,12 @@ Killaura:Friends:false
 Killaura:Team:false
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
-Killaura:Raycast:true
+Killaura:Raycast:false
 Killaura:Walls:false
-Killaura:Slowdown:true
+Killaura:Slowdown:false
 Killaura:PreAim:true
 Killaura:Smooth Rot:true
-Killaura:Fail Hit:true
+Killaura:Fail Hit:false
 AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0

@@ -53,3 +53,4 @@ InvCleaner:Delay:90.0
 enable:Sprint
 enable:AntiKB
 enable:NoSlow
+enable:NoRotate

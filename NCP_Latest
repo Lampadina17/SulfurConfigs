@@ -25,10 +25,10 @@ Killaura:Rand Rots:false
 Killaura:Rand Delay:false
 Killaura:Raycast:false
 Killaura:Walls:true
-Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
+Killaura:Strafe:false
 AutoClicker:Reach:4.2
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0

@@ -9,12 +9,12 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 Killaura:Reach:3.7
-Killaura:Speed Max:12.5
-Killaura:Speed Min:11.0
+Killaura:Speed Max:14
+Killaura:Speed Min:12.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.9
-Killaura:Rot Speed:25.0
-Killaura:Mode:Single
+Killaura:Rot Speed:90.0
+Killaura:Mode:Switch
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -28,10 +28,10 @@ Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:false
 Killaura:Walls:false
-Killaura:Slowdown:false
-Killaura:PreAim:true
+Killaura:PreAim:false
 Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
+Killaura:Strafe:true
 AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0

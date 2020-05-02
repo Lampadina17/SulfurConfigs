@@ -36,7 +36,7 @@ AutoClicker:Reach:3.7
 AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:95.0
 Sprint:Multi-Dir:false
-Speed:Mode:NCP Latest
+Speed:Mode:Spartan
 NoSlow:Speed:0.75
 NoSlow:AAC:false
 AntiKB:Y Percent:0.0

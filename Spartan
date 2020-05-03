@@ -14,7 +14,7 @@ Killaura:Speed Min:12.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.9
 Killaura:Rot Speed:90.0
-Killaura:Mode:Switch
+Killaura:Mode:Single
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -24,7 +24,7 @@ Killaura:Villagers:true
 Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
-Killaura:Rand Rots:true
+Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:false
 Killaura:Walls:false

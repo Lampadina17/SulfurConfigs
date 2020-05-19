@@ -27,7 +27,6 @@ Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
-Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:true

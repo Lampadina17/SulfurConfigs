@@ -8,11 +8,11 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 Killaura:Reach:5.0
-Killaura:Speed Max:12.5
-Killaura:Speed Min:9.0
+Killaura:Speed Max:13.5
+Killaura:Speed Min:10.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:4.0
-Killaura:Rot Speed:40.0
+Killaura:Rot Speed:90.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -44,7 +44,8 @@ AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 Flight:Mode:Cubecraft
 Step:Mode:Vanilla
-Scaffold:Delay:250.0
+Step:Height:2.0
+Scaffold:Delay:0.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
 ChestStealer:Delay:120.0

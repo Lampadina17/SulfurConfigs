@@ -7,12 +7,12 @@ disable:BedBreak
 disable:NoFall
 disable:Step
 disable:Scaffold
-Killaura:Reach:5.0
-Killaura:Speed Max:13.5
-Killaura:Speed Min:10.0
+Killaura:Reach:4.5
+Killaura:Speed Max:15.5
+Killaura:Speed Min:13.0
 Killaura:Particles:1.0
-Killaura:Aim Reach:4.0
-Killaura:Rot Speed:90.0
+Killaura:Aim Reach:4.5
+Killaura:Rot Speed:70.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -28,7 +28,7 @@ Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
 Killaura:PreAim:false
-Killaura:Smooth Rot:false
+Killaura:Smooth Rot:true
 Killaura:Fail Hit:true
 AntiBot:Mode:Entity ID
 AutoClicker:Reach:5.0
@@ -36,8 +36,8 @@ AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0
 Sprint:Multi-Dir:true
 Speed:Mode:Cubecraft
-NoSlow:Speed:1.0
-NoSlow:AAC:false
+NoSlow:Speed:0.7
+NoSlow:AAC:true
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
@@ -47,10 +47,11 @@ Step:Height:2.0
 Scaffold:Delay:0.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
-ChestStealer:Delay:120.0
+ChestStealer:Delay:60.0
 AutoArmor:Delay:130
 AutoArmor:Inv Open:true
 InvCleaner:Delay:120.0
+InvCleaner:Inv Open:true
 enable:AntiBot
 enable:Sprint
 enable:AntiKB

@@ -56,3 +56,4 @@ enable:AntiBot
 enable:Sprint
 enable:AntiKB
 enable:NoSlow
+enable:NoRotate

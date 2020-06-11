@@ -7,14 +7,14 @@ disable:BedBreak
 disable:NoFall
 disable:Step
 disable:Scaffold
-Killaura:Reach:6
-Killaura:Speed Max:15.5
-Killaura:Speed Min:13.0
-Killaura:Particles:1.0
+Killaura:Reach:3.8
+Killaura:Speed Max:13.5
+Killaura:Speed Min:10.0
+Killaura:Particles:2.0
 Killaura:Aim Reach:4.5
 Killaura:Rot Speed:70.0
-Killaura:Mode:Switch
-Killaura:AutoBlock:true
+Killaura:Mode:Single
+Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:true

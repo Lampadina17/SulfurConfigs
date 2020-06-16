@@ -49,6 +49,7 @@ Step:Mode:Motion
 Scaffold:Delay:5.0
 Scaffold:NoSprint:false
 Scaffold:Silent:true
+Scaffold:Safe:false
 ChestStealer:Delay:90.0
 AutoArmor:Delay:125.0
 AutoArmor:Inv Open:false

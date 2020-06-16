@@ -36,7 +36,7 @@ AutoClicker:Delay Max:60.0
 AntiEffect:Blindness:true
 AntiEffect:Nausea:true
 Sprint:Multi-Dir:true
-Speed:Mode:NCP (2016)
+Speed:Mode:NCP (2017)
 NoSlow:Speed:1.0
 NoSlow:AAC:false
 AntiKB:Mode:NCP

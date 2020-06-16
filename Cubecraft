@@ -36,6 +36,7 @@ AutoClicker:Delay Min:80.0
 AutoClicker:Delay Max:80.0
 Sprint:Multi-Dir:true
 Speed:Mode:Cubecraft
+Speed:CubeType:CubeFast
 NoSlow:Speed:0.7
 NoSlow:AAC:true
 AntiKB:Y Percent:0.0
@@ -47,6 +48,7 @@ Step:Height:2.0
 Scaffold:Delay:0.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
+Scaffold:Safe:true
 ChestStealer:Delay:60.0
 AutoArmor:Delay:130
 AutoArmor:Inv Open:true

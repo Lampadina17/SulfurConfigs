@@ -10,7 +10,7 @@ disable:Step
 disable:Scaffold
 disable:Criticals
 Killaura:Reach:4.0
-Killaura:Speed Max:13.5
+Killaura:Speed Max:14.0
 Killaura:Aim Reach:4.0
 Killaura:Rot Speed:90.0
 Killaura:Mode:Switch
@@ -46,6 +46,7 @@ Step:Mode:Motion
 Scaffold:Delay:0.0
 Scaffold:NoSprint:false
 Scaffold:Silent:true
+Scaffold:Safe:false
 ChestStealer:Delay:90.0
 AutoArmor:Delay:125.0
 AutoArmor:Inv Open:false

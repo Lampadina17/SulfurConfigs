@@ -40,8 +40,8 @@ AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP
 LongJump:Mode:NCP
-LongJump:Power:1.1
-LongJump:Auto Disable:true
+LongJump:Power:1.25
+LongJump:Auto Disable:false
 Step:Mode:Motion
 Scaffold:Delay:0.0
 Scaffold:NoSprint:false

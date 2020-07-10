@@ -59,3 +59,4 @@ enable:AntiBot
 enable:Sprint
 enable:AntiKB
 enable:NoRotate
+msg:warning:Use "Test" module instead "Killaura", bind "Flight" instead "Longjump", NoSlow don't bypass on cubecraft

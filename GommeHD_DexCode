@@ -52,3 +52,4 @@ InvCleaner:Delay:130.0
 enable:Sprint
 enable:AntiKB
 enable:InvMove
+msg:alert:this config isn't working (now gomme has intave)

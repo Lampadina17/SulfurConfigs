@@ -58,3 +58,4 @@ enable:AntiBot
 enable:AntiKB
 enable:NoSlow
 enable:NoRotate
+msg:alert:this config probably don't work and i can't test anymore on hypixel

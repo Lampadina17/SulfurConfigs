@@ -49,3 +49,4 @@ AutoArmor:Inv Open:false
 InvCleaner:Delay:130.0
 enable:AntiKB
 enable:Sprint
+msg:warning:this works on 3.6.4 or below

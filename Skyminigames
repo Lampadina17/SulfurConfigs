@@ -61,3 +61,4 @@ Timer:Speed:1.0
 enable:Sprint
 enable:AntiKB
 enable:NoSlow
+msg:alert:this config isn't working (skymingames has AAC4)

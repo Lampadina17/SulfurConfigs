@@ -71,3 +71,4 @@ ChestStealer:Delay:135.0
 InvCleaner:Delay:135.0
 Spam:Delay:1000.0
 Timer:Speed:1.0
+msg:alert:this config is outdated

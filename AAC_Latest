@@ -10,12 +10,12 @@ disable:NoSlow
 disable:AntiKB
 disable:Step
 disable:Criticals
-Killaura:Reach:3.8
+Killaura:Reach:3.5
 Killaura:Speed Max:12.5
 Killaura:Speed Min:9.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8
-Killaura:Rot Speed:35.0
+Killaura:Rot Speed:90.0
 Killaura:Mode:Single
 Killaura:AutoBlock:false
 Killaura:Players:true
@@ -24,7 +24,7 @@ Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
 Killaura:Dead:false
-Killaura:Rand Rots:true
+Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:false
@@ -32,9 +32,11 @@ Killaura:Slowdown:true
 Killaura:PreAim:false
 Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
-AutoClicker:Reach:3.8
+Killaura:Strafe:true
+Killaura:BlockTick:true
+AutoClicker:Reach:3.5
 AutoClicker:Delay Min:50.0
-AutoClicker:Delay Max:80.0
+AutoClicker:Delay Max:120.0
 Sprint:Multi-Dir:false
 Speed:Mode:AAC 3.6.4
 Step:Mode:Motion
@@ -46,4 +48,4 @@ AutoArmor:Delay:125.0
 AutoArmor:Inv Open:true
 InvCleaner:Delay:130.0
 enable:Sprint
-msg:warning:incomplete use only Sprint & Autoclicker
+msg:warning: Speed isn't working after 3.6.4!

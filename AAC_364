@@ -31,6 +31,8 @@ Killaura:Slowdown:true
 Killaura:PreAim:false
 Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
+Killaura:Strafe:true
+Killaura:BlockTick:true
 AutoClicker:Reach:3.6
 AutoClicker:Delay Min:85.0
 AutoClicker:Delay Max:100.0

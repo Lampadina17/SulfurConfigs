@@ -31,6 +31,8 @@ Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
+Killaura:Strafe:false
+Killaura:BlockTick:true
 AntiBot:Mode:×_×
 AntiBot:EntityID:false
 AntiBot:Tablist:true
@@ -54,10 +56,21 @@ Step:Mode:Motion
 Scaffold:Delay:10.0
 Scaffold:NoSprint:false
 Scaffold:Silent:true
+Scaffold:Safe:true
+Scaffold:Tower:OFF
 ChestStealer:Delay:100.0
 AutoArmor:Delay:125.0
 AutoArmor:Inv Open:false
 InvCleaner:Delay:155.0
+InvCleaner:Inv Open:false
+InvCleaner:Bowl:true
+InvCleaner:String:true
+InvCleaner:Seeds:true
+InvCleaner:Snowball:true
+InvCleaner:Egg:true
+InvCleaner:Bone:true
+InvCleaner:Rotten Flash:true
+InvCleaner:Empty Bottle:true
 enable:Sprint
 enable:AntiBot
 enable:AntiKB

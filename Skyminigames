@@ -62,3 +62,4 @@ enable:Sprint
 enable:AntiKB
 enable:NoSlow
 enable:Disabler
+msg:info:Scaffold currently not work on AAC 4+

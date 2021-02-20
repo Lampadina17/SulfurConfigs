@@ -9,41 +9,41 @@ disable:NoFall
 disable:Step
 disable:Scaffold
 disable:Criticals
-Killaura:Reach:4.2
-Killaura:Speed Max:16.5
+Killaura:Reach:6.0
+Killaura:Speed Max:20.0
+Killaura:Speed Min:15.0
 Killaura:Particles:2.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
-Killaura:Invisibles:false
-Killaura:Villagers:true
+Killaura:Invisibles:true
+Killaura:Villagers:false
 Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
 Killaura:Rand Rots:false
-Killaura:Rand Delay:false
+Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:true
-Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
-AutoClicker:Reach:4.2
+Killaura:Strafe:true
+Killaura:BlockTick:true
+AutoClicker:Reach:6.0
 AutoClicker:Delay Min:60.0
 AutoClicker:Delay Max:60.0
-AntiEffect:Blindness:true
-AntiEffect:Nausea:true
-Sprint:Multi-Dir:true
-Speed:Mode:NCP (2017)
+AntiEffect:Blindness:false
+AntiEffect:Nausea:false
+Sprint:Multi-Dir:false
+Speed:Mode:AAC 3.6.4
 NoSlow:Speed:1.0
-NoSlow:AAC:false
-AntiKB:Mode:NCP
-AntiKB:Y Percent:0.0
-AntiKB:XZ Percent:0.0
+NoSlow:AAC:true
+AntiKB:Mode:AAC
 LongJump:Mode:NCP
-LongJump:Power:1.3
+LongJump:Power:1.0
 LongJump:Auto Disable:false
 Step:Mode:Motion
 Step:Height:1.0
@@ -61,4 +61,4 @@ Timer:Speed:1.0
 enable:Sprint
 enable:AntiKB
 enable:NoSlow
-msg:alert:this config isn't working (skymingames has AAC4)
+enable:Disabler

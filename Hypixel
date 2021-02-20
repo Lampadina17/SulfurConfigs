@@ -31,7 +31,12 @@ Killaura:Slowdown:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
-AntiBot:Mode:Hypixel
+AntiBot:Mode:×_×
+AntiBot:EntityID:false
+AntiBot:Tablist:true
+AntiBot:Offset:false
+AntiBot:Invis:true
+AntiBot:Debug:false
 AutoClicker:Reach:4.0
 AutoClicker:Delay Min:60.0
 AutoClicker:Delay Max:70.0
@@ -58,4 +63,4 @@ enable:AntiBot
 enable:AntiKB
 enable:NoSlow
 enable:NoRotate
-msg:alert:this config probably don't work and i can't test anymore on hypixel
+msg:alert:OUTDATED, LASTEST TEST march 2020, AT YOUR RISK

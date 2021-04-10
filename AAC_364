@@ -10,13 +10,13 @@ disable:NoSlow
 disable:Step
 disable:Criticals
 Killaura:Reach:3.8
-Killaura:Speed Max:12.5
-Killaura:Speed Min:9.0
+Killaura:Speed Max:17.5
+Killaura:Speed Min:13.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8
-Killaura:Rot Speed:35.0
+Killaura:Rot Speed:90.0
 Killaura:Mode:Single
-Killaura:AutoBlock:false
+Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
@@ -45,7 +45,7 @@ Step:Mode:Motion
 Scaffold:Delay:50.0
 Scaffold:NoSprint:true
 Scaffold:Silent:true
-ChestStealer:Delay:130.0
+ChestStealer:Delay:95.0
 AutoArmor:Delay:125.0
 AutoArmor:Inv Open:false
 InvCleaner:Delay:130.0

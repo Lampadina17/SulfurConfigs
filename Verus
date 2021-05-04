@@ -2,8 +2,8 @@ disable:NoSlow
 disable:Speed
 msg:info:Working in progress, some movements needs disabler
 msg:info:WORKING (AURA, KB, SCAFFOLD + TOWER, JESUS, INV RELATED)
-Killaura:Reach:6.0
-Killaura:Speed Max:10.5
+Killaura:Reach:4.0
+Killaura:Speed Max:11.5
 Killaura:Speed Min:8.0
 Killaura:Mode:Switch
 Killaura:AutoBlock:false
@@ -18,7 +18,7 @@ Killaura:Team:false
 Killaura:Rand Rots:true
 Killaura:Rand Delay:true
 Killaura:Raycast:true
-Killaura:Walls:true
+Killaura:Walls:false
 Killaura:PreAim:false
 Killaura:Smooth Rot:false
 Killaura:Fail Hit:false

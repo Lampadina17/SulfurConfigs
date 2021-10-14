@@ -1,6 +1,7 @@
 disable:NoSlow
 disable:Speed
-msg:info:Working in progress, some movements needs disabler
+enable:AntiBot
+msg:info:Working in progress, but we have fly, speeds, and some shits (14/10/21)
 msg:info:WORKING (AURA, KB, SCAFFOLD + TOWER, JESUS, INV RELATED)
 Killaura:Reach:4.0
 Killaura:Speed Max:11.5
@@ -24,29 +25,31 @@ Killaura:Smooth Rot:false
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:false
-AutoClicker:Reach:6.0
+AntiBot:Mode:
+AutoClicker:Reach:4.0
 AutoClicker:Delay Min:50.0
 AutoClicker:Delay Max:150.0
 Sprint:Multi-Dir:false
-Speed:Mode:NCP Latest
+Speed:Mode:Verus
+Speed:VerusType:Verus 2
 AntiKB:Mode:NCP
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 LongJump:Mode:NCP
 LongJump:Power:1.0
 LongJump:Auto Disable:false
-Flight:Mode:Vanilla
+Flight:Mode:Verus
 Step:Mode:Motion
-Scaffold:Delay:50.0
-Scaffold:NoSprint:true
-Scaffold:Silent:false
+Scaffold:Delay:0.0
+Scaffold:NoSprint:false
+Scaffold:Silent:true
 Scaffold:Safe:true
 Scaffold:Tower:Cubecraft
-ChestStealer:Delay:130.0
-AutoArmor:Delay:125.0
+ChestStealer:Delay:0.0
+AutoArmor:Delay:0.0
 AutoArmor:Inv Open:true
 InvCleaner:Delay:130.0
-InvCleaner:Inv Open:false
+InvCleaner:Inv Open:true
 InvCleaner:Bowl:true
 InvCleaner:String:true
 InvCleaner:Seeds:true

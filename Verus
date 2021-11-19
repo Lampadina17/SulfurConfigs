@@ -3,11 +3,11 @@ disable:Speed
 enable:AntiBot
 msg:info:Working in progress, but we have fly, speeds, and some shits (14/10/21)
 msg:info:WORKING (AURA, KB, SCAFFOLD + TOWER, JESUS, INV RELATED)
-Killaura:Reach:4.0
-Killaura:Speed Max:11.5
-Killaura:Speed Min:8.0
-Killaura:Mode:Switch
-Killaura:AutoBlock:false
+Killaura:Reach:3.8
+Killaura:Speed Max:20.5
+Killaura:Speed Min:6.0
+Killaura:Mode:Single
+Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
@@ -16,30 +16,26 @@ Killaura:Villagers:true
 Killaura:Dead:false
 Killaura:Friends:false
 Killaura:Team:false
-Killaura:Rand Rots:true
+Killaura:Rand Rots:false
 Killaura:Rand Delay:true
-Killaura:Raycast:true
+Killaura:Raycast:false
 Killaura:Walls:false
 Killaura:PreAim:false
-Killaura:Smooth Rot:false
+Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
 Killaura:Strafe:true
-Killaura:BlockTick:false
-AntiBot:Mode:×_×
-AutoClicker:Reach:4.0
+Killaura:BlockTick:true
+AutoClicker:Reach:3.8
 AutoClicker:Delay Min:50.0
 AutoClicker:Delay Max:150.0
 Sprint:Multi-Dir:false
 Speed:Mode:Verus
 Speed:VerusType:Verus 2
-AntiKB:Mode:NCP
-AntiKB:Y Percent:0.0
-AntiKB:XZ Percent:0.0
-LongJump:Mode:NCP
-LongJump:Power:1.0
-LongJump:Auto Disable:false
+AntiKB:Mode:Custom
+AntiKB:Y Multiplier:0.2
+AntiKB:XZ Multiplier:0.2
 Flight:Mode:Verus
-Step:Mode:Motion
+Step:Mode:Vanilla
 Scaffold:Delay:0.0
 Scaffold:NoSprint:false
 Scaffold:Silent:true

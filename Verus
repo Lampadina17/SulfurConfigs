@@ -1,8 +1,8 @@
-disable:NoSlow
-disable:Speed
-enable:AntiBot
-msg:info:Working in progress, but we have fly, speeds, and some shits (19/11/21)
-msg:info:WORKING (AURA, KB, SCAFFOLD + TOWER, JESUS, INV RELATED)
+enable:Sprint
+enable:AntiKB
+enable:NoSlow
+enable:Speed
+msg:info:Last update (19/11/21)
 Killaura:Reach:3.8
 Killaura:Speed Max:20.5
 Killaura:Speed Min:6.0

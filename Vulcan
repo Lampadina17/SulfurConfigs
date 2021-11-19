@@ -1,3 +1,7 @@
+enable:Sprint
+enable:AntiKB
+enable:NoSlow
+enable:Speed
 Killaura:Reach:3.5
 Killaura:Speed Max:20.0
 Killaura:Aim Reach:6.0

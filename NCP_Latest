@@ -36,7 +36,7 @@ AutoClicker:Delay Max:80.0
 Sprint:Multi-Dir:true
 Speed:Mode:NCP Latest
 NoSlow:Speed:1.0
-NoSlow:AAC:false
+NoSlow:Mode:NCP
 AntiKB:Y Percent:0.0
 AntiKB:XZ Percent:0.0
 AntiKB:Mode:NCP

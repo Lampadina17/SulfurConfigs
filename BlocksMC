@@ -1,0 +1,54 @@
+Killaura:Reach:6.0
+Killaura:Speed Max:20.0
+Killaura:Speed Min:20.0
+Killaura:Particles:1.0
+Killaura:Aim Reach:6.0
+Killaura:Rot Speed:180.0
+Killaura:Mode:Switch
+Killaura:AutoBlock:true
+Killaura:Players:true
+Killaura:Animals:true
+Killaura:Mobs:true
+Killaura:Invisibles:true
+Killaura:Villagers:true
+Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
+Killaura:Rand Rots:false
+Killaura:Rand Delay:false
+Killaura:Raycast:false
+Killaura:Walls:true
+Killaura:PreAim:false
+Killaura:Smooth Rot:false
+Killaura:Fail Hit:false
+Killaura:Strafe:false
+Killaura:BlockTick:true
+AntiBot:Mode:×_×
+AntiBot:EntityID:false
+AntiBot:Tablist:true
+AntiBot:Offset:false
+AntiBot:Invis:false
+AntiBot:Angle:false
+AntiBot:TickExisted:false
+AntiBot:Debug:false
+AntiBot:ID value:0.0
+AntiBot:Off value:0.0
+Sprint:Multi-Dir:true
+Speed:Mode:Vanilla
+Speed:Bhop:true
+LongJump:Mode:Vanilla
+LongJump:Auto Disable:false
+Flight:Mode:Vanilla
+Step:Mode:Vanilla
+Step:Height:5.0
+Scaffold:Delay:0.0
+Scaffold:NoSprint:false
+Scaffold:Silent:true
+Scaffold:Safe:false
+Scaffold:Tower:Cubecraft
+ChestStealer:Delay:0.0
+AutoArmor:Delay:0.0
+AutoArmor:Inv Open:false
+Disabler:Mode:Verus
+Disabler:Verus:Dev
+msg:warning: Enable disabler every time in Hub on blocksmc

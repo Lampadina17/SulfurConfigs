@@ -1,12 +1,4 @@
-disable:Flight
-disable:LongJump
-disable:Phase
-disable:TPAura
-disable:Nuker
-disable:BedBreak
-disable:NoFall
-disable:Step
-disable:Scaffold
+disable:NoRender
 Killaura:Reach:3.8
 Killaura:Speed Max:16.5
 Killaura:Speed Min:10.0

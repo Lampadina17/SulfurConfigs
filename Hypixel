@@ -36,3 +36,8 @@ AutoArmor:Inv Open:true
 IGNProtect:All:true
 msg:alert:Last update 07/06/2022
 msg:info:This config has pretty safe values, some settings like reach can raised but at your own risk
+enable:Sprint
+enable:ESP
+enable:AntiKB
+enable:IGNProtect
+enable:AntiBot

@@ -30,4 +30,9 @@ AntiKB:Y Percent:100.0
 AntiKB:XZ Percent:50.0
 Step:Mode:Legit
 Step:Height:1.1
-msg:alert:Last update 07/06/2022, use at your risk
+ChestStealer:Delay:90.0
+AutoArmor:Delay:100.0
+AutoArmor:Inv Open:true
+IGNProtect:All:true
+msg:alert:Last update 07/06/2022
+msg:info:This config has pretty safe values, some settings like reach can raised but at your own risk

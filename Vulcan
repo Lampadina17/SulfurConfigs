@@ -1,7 +1,4 @@
-enable:Sprint
-enable:AntiKB
-enable:NoSlow
-enable:Speed
+disable:NoRender
 msg:info:Last update (19/11/21)
 Killaura:Reach:3.5
 Killaura:Speed Max:20.0

@@ -1,15 +1,33 @@
-disable:AntiBot
-disable:Flight
-disable:LongJump
-disable:Phase
-disable:TPAura
-disable:Nuker
-disable:BedBreak
-disable:NoFall
-disable:Step
-disable:Scaffold
-disable:Criticals
-disable:NoSlow
-disable:Speed
-
+disable:NoRender
+Killaura:Reach:3.9
+Killaura:Speed Max:10.0
+Killaura:Speed Min:6.5
+Killaura:Particles:1.0
+Killaura:Aim Reach:6.0
+Killaura:Rot Speed:120.0
+Killaura:Mode:Single
+Killaura:AutoBlock:false
+Killaura:Players:true
+Killaura:Animals:false
+Killaura:Mobs:false
+Killaura:Invisibles:false
+Killaura:Villagers:false
+Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
+Killaura:Rand Rots:false
+Killaura:Rand Delay:true
+Killaura:Raycast:true
+Killaura:Walls:false
+Killaura:PreAim:false
+Killaura:Smooth Rot:true
+Killaura:Fail Hit:false
+Killaura:Strafe:true
+Killaura:BlockTick:true
+Sprint:Multi-Dir:false
+AntiKB:Mode:NCP
+AntiKB:Y Percent:100.0
+AntiKB:XZ Percent:50.0
+Step:Mode:Legit
+Step:Height:1.1
 msg:alert:Last update 07/06/2022, use at your risk

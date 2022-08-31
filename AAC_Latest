@@ -1,11 +1,12 @@
 disable:NoRender
-Killaura:Reach:3.5
+Killaura:Reach:3.8
 Killaura:Speed Max:12.5
 Killaura:Speed Min:9.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:3.8
 Killaura:Rot Speed:90.0
 Killaura:Mode:Single
+Killaura:Rotation:Hitbox
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -27,6 +28,9 @@ AutoClicker:Reach:3.5
 AutoClicker:Delay Min:50.0
 AutoClicker:Delay Max:120.0
 Sprint:Multi-Dir:false
+AntiKB:Mode:AAC
+NoSlow:Mode:AAC
+NoSlow:Speed:0.28
 Speed:Mode:AAC 3.6.4
 Step:Mode:Motion
 Scaffold:Delay:50.0

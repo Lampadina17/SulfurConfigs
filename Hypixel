@@ -1,11 +1,12 @@
 disable:NoRender
-Killaura:Reach:3.9
-Killaura:Speed Max:10.0
-Killaura:Speed Min:6.5
+Killaura:Reach:4.2
+Killaura:Speed Max:13.0
+Killaura:Speed Min:10.0
 Killaura:Particles:1.0
 Killaura:Aim Reach:6.0
 Killaura:Rot Speed:120.0
 Killaura:Mode:Single
+Killaura:Rotation:Hybrid
 Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:false
@@ -20,24 +21,29 @@ Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:false
 Killaura:PreAim:false
-Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
+AntiBot:Mode:×_×
+AntiBot:Debug:false
+AntiBot:Reputation:10.0
 Sprint:Multi-Dir:false
+Speed:Mode:Vulcan
 AntiKB:Mode:NCP
 AntiKB:Y Percent:100.0
 AntiKB:XZ Percent:50.0
+NoSlow:Speed:1.0
+NoSlow:Mode:NCP
 Step:Mode:Legit
 Step:Height:1.1
-ChestStealer:Delay:90.0
+ChestStealer:Delay:68.0
 AutoArmor:Delay:100.0
 AutoArmor:Inv Open:true
 IGNProtect:All:true
 enable:Sprint
 enable:ESP
 enable:AntiKB
+enable:NoSlow
 enable:IGNProtect
 enable:AntiBot
-msg:alert:Last update 07/06/2022
-msg:info:This config has pretty safe values, some settings like reach can raised but at your own risk
+msg:alert:Last update 22/12/2022

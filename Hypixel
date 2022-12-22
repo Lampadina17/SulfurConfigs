@@ -24,6 +24,7 @@ Killaura:PreAim:false
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
+Killaura:KeepSprint:true
 AntiBot:Mode:×_×
 AntiBot:Debug:false
 AntiBot:Reputation:10.0

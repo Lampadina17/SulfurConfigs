@@ -28,6 +28,14 @@ Killaura:KeepSprint:true
 AntiBot:Mode:×_×
 AntiBot:Debug:false
 AntiBot:Reputation:10.0
+ESP:Style:Outline
+ESP:Color:Fixed
+ESP:Players:true
+ESP:Animals:false
+ESP:Mobs:false
+ESP:Invisibles:false
+ESP:Villagers:false
+ESP:Nametags:false
 Sprint:Multi-Dir:false
 Speed:Mode:Vulcan
 AntiKB:Mode:NCP
@@ -45,6 +53,5 @@ enable:Sprint
 enable:ESP
 enable:AntiKB
 enable:NoSlow
-enable:IGNProtect
 enable:AntiBot
 msg:alert:Last update 22/12/2022

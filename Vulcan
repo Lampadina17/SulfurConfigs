@@ -41,6 +41,7 @@ Scaffold:NoSprint:true
 Scaffold:Silent:true
 Scaffold:Safe:true
 Scaffold:Tower:OFF
+Scaffold:Rotations:Keep
 ChestStealer:Delay:90.0
 AutoArmor:Delay:90.0
 AutoArmor:Inv Open:true

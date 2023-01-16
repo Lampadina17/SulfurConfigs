@@ -1,26 +1,30 @@
 disable:NoRender
 msg:info:Last update (16/01/23)
 Killaura:Reach:3.5
-Killaura:Speed Max:20.0
+Killaura:Speed Max:12.0
+Killaura:Speed Min:6.0
 Killaura:Aim Reach:6.0
 Killaura:Rot Speed:180.0
 Killaura:Mode:Single
-Killaura:AutoBlock:true
+Killaura:Rotation:Hybrid
+Killaura:AutoBlock:false
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
 Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:false
 Killaura:Walls:false
 Killaura:PreAim:false
-Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
+Killaura:KeepSprint:true
 AutoClicker:Reach:3.5
 AutoClicker:Delay Min:40.0
 AutoClicker:Delay Max:180.0

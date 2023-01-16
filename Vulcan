@@ -32,9 +32,9 @@ AntiKB:Y Multiplier:0.2
 AntiKB:XZ Multiplier:0.3
 AntiKB:Mode:Custom
 Step:Mode:Vanilla
-Scaffold:Delay:0.0
+Scaffold:Delay:270.0
 Scaffold:NoSprint:true
-Scaffold:Silent:false
+Scaffold:Silent:true
 Scaffold:Safe:true
 Scaffold:Tower:OFF
 ChestStealer:Delay:90.0

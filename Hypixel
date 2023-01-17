@@ -7,7 +7,7 @@ Killaura:Aim Reach:6.0
 Killaura:Rot Speed:120.0
 Killaura:Mode:Single
 Killaura:Rotation:Hybrid
-Killaura:AutoBlock:false
+Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:false
 Killaura:Mobs:false
@@ -45,6 +45,12 @@ NoSlow:Speed:1.0
 NoSlow:Mode:NCP
 Step:Mode:Legit
 Step:Height:1.1
+Scaffold:Delay:0.0
+Scaffold:NoSprint:true
+Scaffold:Silent:false
+Scaffold:Safe:true
+Scaffold:Tower:OFF
+Scaffold:Rotations:Keep
 ChestStealer:Delay:68.0
 AutoArmor:Delay:100.0
 AutoArmor:Inv Open:true
@@ -54,4 +60,4 @@ enable:ESP
 enable:AntiKB
 enable:NoSlow
 enable:AntiBot
-msg:alert:Last update 22/12/2022
+msg:alert:Last update 17/01/2023

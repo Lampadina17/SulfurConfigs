@@ -8,22 +8,32 @@ Killaura:Rot Speed:90.0
 Killaura:Mode:Single
 Killaura:Rotation:Hitbox
 Killaura:AutoBlock:true
+Killaura:Reach:3.8
+Killaura:Speed Max:12.5
+Killaura:Speed Min:9.0
+Killaura:Particles:1.0
+Killaura:Aim Reach:3.8
+Killaura:Rot Speed:90.0
+Killaura:Mode:Single
+Killaura:Rotation:Hitbox
+Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
 Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
 Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:false
-Killaura:Slowdown:true
 Killaura:PreAim:false
-Killaura:Smooth Rot:true
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
+Killaura:KeepSprint:true
 AutoClicker:Reach:3.5
 AutoClicker:Delay Min:50.0
 AutoClicker:Delay Max:120.0
@@ -33,9 +43,12 @@ NoSlow:Mode:AAC
 NoSlow:Speed:0.28
 Speed:Mode:AAC 3.6.4
 Step:Mode:Motion
-Scaffold:Delay:50.0
+Scaffold:Delay:0.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
+Scaffold:Safe:false
+Scaffold:Tower:OFF
+Scaffold:Rotations:Snap
 ChestStealer:Delay:130.0
 AutoArmor:Delay:125.0
 AutoArmor:Inv Open:true

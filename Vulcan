@@ -46,7 +46,9 @@ ChestStealer:Delay:90.0
 AutoArmor:Delay:90.0
 AutoArmor:Inv Open:true
 InvCleaner:Delay:90.0
+NoFall:ticks:6.0
 enable:Sprint
 enable:AntiKB
 enable:NoSlow
 enable:NoRotate
+enable:NoFall

@@ -1,0 +1,59 @@
+disable:NoRender
+msg:info:Last update, scaffold not working properly (24/02/23)
+Killaura:Reach:3.5
+Killaura:Speed Max:12.0
+Killaura:Speed Min:6.0
+Killaura:Particles:1.0
+Killaura:Aim Reach:6.0
+Killaura:Rot Speed:60.0
+Killaura:Mode:Single
+Killaura:Rotation:Hitbox
+Killaura:AutoBlock:false
+Killaura:Players:true
+Killaura:Animals:true
+Killaura:Mobs:true
+Killaura:Invisibles:true
+Killaura:Villagers:true
+Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
+Killaura:Rand Rots:true
+Killaura:Rand Delay:true
+Killaura:Raycast:false
+Killaura:Walls:true
+Killaura:PreAim:false
+Killaura:Fail Hit:false
+Killaura:Strafe:true
+Killaura:BlockTick:true
+Killaura:KeepSprint:false
+AntiBot:Mode:×_×
+AntiBot:Debug:false
+AntiBot:Reputation:90.0
+AutoClicker:Reach:3.5
+AutoClicker:Delay Min:40.0
+AutoClicker:Delay Max:180.0
+Sprint:Multi-Dir:false
+Speed:Mode:Vulcan
+NoSlow:Speed:0.49
+NoSlow:Mode:NoPacket
+AntiKB:Mode:Custom
+AntiKB:Y Percent:0.0
+AntiKB:XZ Percent:0.0
+AntiKB:Y Multiplier:1.0
+AntiKB:XZ Multiplier:0.05
+Step:Mode:Motion
+Scaffold:Delay:270.0
+Scaffold:NoSprint:true
+Scaffold:Silent:true
+Scaffold:Safe:true
+Scaffold:Tower:OFF
+Scaffold:Rotations:Keep
+ChestStealer:Delay:90.0
+AutoArmor:Delay:90.0
+AutoArmor:Inv Open:true
+InvCleaner:Delay:90.0
+NoFall:ticks:6.0
+enable:Sprint
+enable:AntiKB
+enable:NoSlow
+enable:NoRotate

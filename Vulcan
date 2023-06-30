@@ -1,9 +1,9 @@
 disable:NoRender
-msg:info:Last update (23/01/23)
+msg:info:Last update (30/06/23)
 Killaura:Reach:3.5
 Killaura:Speed Max:12.0
 Killaura:Speed Min:6.0
-Killaura:Aim Reach:6.0
+Killaura:Particles:1.0
 Killaura:Rot Speed:180.0
 Killaura:Mode:Single
 Killaura:Rotation:Hybrid
@@ -20,7 +20,6 @@ Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:false
 Killaura:Walls:false
-Killaura:PreAim:false
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true

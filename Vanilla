@@ -1,8 +1,11 @@
-disable:AntiBot
+disable:NoRender
 Killaura:Reach:6.0
-Killaura:Speed Max:20
+Killaura:Speed Max:20.0
+Killaura:Speed Min:2.5
 Killaura:Particles:1.0
-Killaura:Mode:Multi
+Killaura:Rot Speed:180.0
+Killaura:Mode:Switch
+Killaura:Rotation:None
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -10,13 +13,16 @@ Killaura:Mobs:true
 Killaura:Invisibles:true
 Killaura:Villagers:true
 Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:false
 Killaura:Raycast:false
 Killaura:Walls:true
-Killaura:Slowdown:false
-Killaura:PreAim:false
 Killaura:Fail Hit:false
+Killaura:Strafe:false
+Killaura:BlockTick:false
+Killaura:KeepSprint:true
 TPAura:Reach:45.0
 TPAura:Delay:70.0
 AutoClicker:Reach:6.0
@@ -47,4 +53,5 @@ enable:Sprint
 enable:AntiKB
 enable:NoSlow
 enable:NoFall
+enable:NoRotate
 enable:Step

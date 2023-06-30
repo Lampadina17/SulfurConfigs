@@ -1,0 +1,30 @@
+disable:NoRender
+Killaura:Reach:3.0
+Killaura:Speed Max:12.0
+Killaura:Speed Min:6.0
+Killaura:Particles:1.0
+Killaura:Rot Speed:180.0
+Killaura:Mode:Switch
+Killaura:Rotation:Hybrid
+Killaura:AutoBlock:false
+Killaura:Players:true
+Killaura:Animals:true
+Killaura:Mobs:true
+Killaura:Invisibles:true
+Killaura:Villagers:true
+Killaura:Dead:false
+Killaura:Friends:false
+Killaura:Team:false
+Killaura:Rand Rots:false
+Killaura:Rand Delay:true
+Killaura:Raycast:false
+Killaura:Walls:false
+Killaura:Fail Hit:false
+Killaura:Strafe:true
+Killaura:BlockTick:true
+Killaura:KeepSprint:true
+AntiKB:Mode:Legit
+Step:Mode:Motion
+Step:Height:1.1
+enable:AimModuloFix
+enable:Sprint

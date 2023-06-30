@@ -1,9 +1,12 @@
 disable:NoRender
-msg:info:Last update (19/11/21)
+msg:info:Last update (30/06/23)
 Killaura:Reach:3.8
-Killaura:Speed Max:20.5
+Killaura:Speed Max:20.0
 Killaura:Speed Min:6.0
+Killaura:Particles:1.0
+Killaura:Rot Speed:180.0
 Killaura:Mode:Single
+Killaura:Rotation:Hybrid
 Killaura:AutoBlock:true
 Killaura:Players:true
 Killaura:Animals:true
@@ -16,38 +19,38 @@ Killaura:Team:false
 Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:false
-Killaura:Walls:false
-Killaura:PreAim:false
-Killaura:Smooth Rot:true
+Killaura:Walls:true
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
+Killaura:KeepSprint:true
 AutoClicker:Reach:3.8
-AutoClicker:Delay Min:50.0
-AutoClicker:Delay Max:150.0
+AutoClicker:Speed Max:12.0
+AutoClicker:Speed Min:6.0
+AutoClicker:KeepSprint:true
 Sprint:Multi-Dir:false
 Speed:Mode:Verus
 Speed:VerusType:Verus 2
+NoSlow:Speed:1.0
+NoSlow:Mode:NoPacket
 AntiKB:Mode:Custom
-AntiKB:Y Multiplier:0.2
-AntiKB:XZ Multiplier:0.2
+AntiKB:Y Multiplier:1.6
+AntiKB:XZ Multiplier:1.4
 Flight:Mode:Verus
 Step:Mode:Vanilla
 Scaffold:Delay:0.0
-Scaffold:NoSprint:false
+Scaffold:NoSprint:true
 Scaffold:Silent:true
 Scaffold:Safe:true
 Scaffold:Tower:Cubecraft
+Scaffold:Rotations:Keep
 ChestStealer:Delay:0.0
 AutoArmor:Delay:0.0
 AutoArmor:Inv Open:true
 InvCleaner:Delay:130.0
 InvCleaner:Inv Open:true
-InvCleaner:Bowl:true
-InvCleaner:String:true
-InvCleaner:Seeds:true
-InvCleaner:Snowball:true
-InvCleaner:Egg:true
-InvCleaner:Bone:true
-InvCleaner:Rotten Flash:true
-InvCleaner:Empty Bottle:true
+NoFall:ticks:3.0
+enable:Sprint
+enable:AntiKB
+enable:NoSlow
+enable:NoFall

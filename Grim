@@ -33,3 +33,4 @@ Scaffold:Safe:true
 Scaffold:Tower:OFF
 Scaffold:Rotations:Snap
 enable:AimModuloFix
+msg:warning:you should manually sneak when use scaffold on grim to prevent flags!!

@@ -26,11 +26,11 @@ Killaura:KeepSprint:true
 AntiKB:Mode:Legit
 Step:Mode:Motion
 Step:Height:1.1
-Scaffold:Delay:0.0
+Scaffold:Delay:500.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
 Scaffold:Safe:true
 Scaffold:Tower:OFF
 Scaffold:Rotations:Snap
 enable:AimModuloFix
-msg:warning:you should manually sneak when use scaffold on grim to prevent flags!!
+msg:warning:Use eagle module with scaffold to prevent flags!!

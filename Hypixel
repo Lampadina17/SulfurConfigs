@@ -1,30 +1,28 @@
 disable:NoRender
-Killaura:Reach:4.2
-Killaura:Speed Max:13.0
-Killaura:Speed Min:10.0
+Killaura:Reach:3.2
+Killaura:Speed Max:15.0
+Killaura:Speed Min:7.0
 Killaura:Particles:1.0
-Killaura:Aim Reach:6.0
 Killaura:Rot Speed:120.0
 Killaura:Mode:Single
 Killaura:Rotation:Hybrid
-Killaura:AutoBlock:true
+Killaura:AutoBlock:false
 Killaura:Players:true
-Killaura:Animals:false
-Killaura:Mobs:false
-Killaura:Invisibles:false
-Killaura:Villagers:false
+Killaura:Animals:true
+Killaura:Mobs:true
+Killaura:Invisibles:true
+Killaura:Villagers:true
 Killaura:Dead:false
 Killaura:Friends:false
-Killaura:Team:false
+Killaura:Team:true
 Killaura:Rand Rots:false
 Killaura:Rand Delay:true
 Killaura:Raycast:true
 Killaura:Walls:false
-Killaura:PreAim:false
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
-Killaura:KeepSprint:true
+Killaura:KeepSprint:false
 AntiBot:Mode:×_×
 AntiBot:Debug:false
 AntiBot:Reputation:10.0
@@ -45,19 +43,17 @@ NoSlow:Speed:1.0
 NoSlow:Mode:NCP
 Step:Mode:Legit
 Step:Height:1.1
-Scaffold:Delay:0.0
+Scaffold:Delay:270.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
 Scaffold:Safe:true
 Scaffold:Tower:OFF
-Scaffold:Rotations:Keep
+Scaffold:Rotations:Snap
 ChestStealer:Delay:68.0
 AutoArmor:Delay:100.0
 AutoArmor:Inv Open:true
 IGNProtect:All:true
 enable:Sprint
 enable:ESP
-enable:AntiKB
-enable:NoSlow
 enable:AntiBot
-msg:alert:Last update 17/01/2023
+msg:alert:Last update 06/01/2024

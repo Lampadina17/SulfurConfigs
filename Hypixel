@@ -1,5 +1,5 @@
 disable:NoRender
-Killaura:Reach:3.2
+Killaura:Reach:3.0
 Killaura:Speed Max:15.0
 Killaura:Speed Min:7.0
 Killaura:Particles:1.0
@@ -46,7 +46,7 @@ Step:Height:1.1
 Scaffold:Delay:270.0
 Scaffold:NoSprint:true
 Scaffold:Silent:false
-Scaffold:Safe:true
+Scaffold:Safe:false
 Scaffold:Tower:OFF
 Scaffold:Rotations:Snap
 ChestStealer:Delay:68.0

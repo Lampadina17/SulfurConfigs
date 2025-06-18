@@ -22,12 +22,12 @@ Killaura:Walls:false
 Killaura:Fail Hit:false
 Killaura:Strafe:true
 Killaura:BlockTick:true
-Killaura:KeepSprint:true
+Killaura:KeepSprint:false
 AntiKB:Mode:Legit
 Step:Mode:Motion
 Step:Height:1.1
-Scaffold:Delay:500.0
-Scaffold:NoSprint:true
+Scaffold:Delay:0.0
+Scaffold:NoSprint:false
 Scaffold:Silent:false
 Scaffold:Safe:true
 Scaffold:Tower:OFF
